@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e7474e0-883a-4089-a63f-141bbbf82efa" name="Default Changelist" comment="4th Monday">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoList.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="5e7474e0-883a-4089-a63f-141bbbf82efa" name="Default Changelist" comment="5th lesson" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +60,7 @@
       <workItem from="1614355404896" duration="936000" />
       <workItem from="1614697029421" duration="9254000" />
       <workItem from="1614707916704" duration="2337000" />
+      <workItem from="1614742740529" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="Edited @ updated">
       <created>1613944809244</created>
@@ -79,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614019476745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5th lesson">
+      <created>1614742771994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614742771994</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Edited @ updated" />
     <MESSAGE value="4th Monday" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th Monday" />
+    <MESSAGE value="5th lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th lesson" />
   </component>
 </project>
