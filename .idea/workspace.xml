@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e7474e0-883a-4089-a63f-141bbbf82efa" name="Default Changelist" comment="5th lesson" />
+    <list default="true" id="5e7474e0-883a-4089-a63f-141bbbf82efa" name="Default Changelist" comment="5th lesson">
+      <change afterPath="$PROJECT_DIR$/src/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EditableSpan.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoList.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +34,7 @@
   <component name="ProjectId" id="1oYaVaz3V2yRaPdQMb6LFQ9TktE" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -61,6 +75,9 @@
       <workItem from="1614697029421" duration="9254000" />
       <workItem from="1614707916704" duration="2337000" />
       <workItem from="1614742740529" duration="49000" />
+      <workItem from="1615141791261" duration="208000" />
+      <workItem from="1615142062929" duration="39000" />
+      <workItem from="1615302383466" duration="11702000" />
     </task>
     <task id="LOCAL-00001" summary="Edited @ updated">
       <created>1613944809244</created>
@@ -83,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614742771994</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="07.03.2021">
+      <created>1615141917539</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615141917539</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +129,7 @@
     <MESSAGE value="Edited @ updated" />
     <MESSAGE value="4th Monday" />
     <MESSAGE value="5th lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th lesson" />
+    <MESSAGE value="07.03.2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="07.03.2021" />
   </component>
 </project>
