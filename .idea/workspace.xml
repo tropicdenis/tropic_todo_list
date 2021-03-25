@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e7474e0-883a-4089-a63f-141bbbf82efa" name="Default Changelist" comment="7th lesson. Added material-ui components">
-      <change afterPath="$PROJECT_DIR$/src/state/todolists_reducer.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/todolists_reducer.ts" afterDir="false" />
+    <list default="true" id="5e7474e0-883a-4089-a63f-141bbbf82efa" name="Default Changelist" comment="8th lesson. Added reducer for Todolist">
+      <change afterPath="$PROJECT_DIR$/src/8nativeJS/8js.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/8nativeJS/8js.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../07js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,65 +56,84 @@
     <property name="ts.external.directory.path" value="D:\it-kamasutra.com\tropic_todo_list\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Jest.correct filter of todolist should be changed">
-    <configuration name="correct filter of todolist should be changed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\it-kamasutra.com\tropic_todo_list\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.is Square Greater Than Circle">
+    <configuration name="get Sum " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/state/todolists_reducer.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/8nativeJS/8js.test.ts" />
       <test-names>
-        <test-name value="correct filter of todolist should be changed" />
+        <test-name value="get Sum " />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="correct todolist should be added" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="get Triangle Type" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/state/todolists_reducer.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/8nativeJS/8js.test.ts" />
       <test-names>
-        <test-name value="correct todolist should be added" />
+        <test-name value="get Triangle Type" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="correct todolist should be removed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="get sum" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/state/todolists_reducer.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/8nativeJS/8js.test.ts" />
       <test-names>
-        <test-name value="correct todolist should be removed" />
+        <test-name value="get sum" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="correct todolist should change its name" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="is Even Sum Greater" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/state/todolists_reducer.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/8nativeJS/8js.test.ts" />
       <test-names>
-        <test-name value="correct todolist should change its name" />
+        <test-name value="is Even Sum Greater" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="is Square Greater Than Circle" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/8nativeJS/8js.test.ts" />
+      <test-names>
+        <test-name value="is Square Greater Than Circle" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.correct filter of todolist should be changed" />
-        <item itemvalue="Jest.correct todolist should change its name" />
-        <item itemvalue="Jest.correct todolist should be added" />
-        <item itemvalue="Jest.correct todolist should be removed" />
+        <item itemvalue="Jest.is Square Greater Than Circle" />
+        <item itemvalue="Jest.is Even Sum Greater" />
+        <item itemvalue="Jest.get Sum " />
+        <item itemvalue="Jest.get Triangle Type" />
+        <item itemvalue="Jest.get sum" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +163,9 @@
       <workItem from="1615924347296" duration="26000" />
       <workItem from="1615993704835" duration="8184000" />
       <workItem from="1616083483678" duration="158000" />
-      <workItem from="1616511872109" duration="10323000" />
+      <workItem from="1616511872109" duration="10389000" />
+      <workItem from="1616611946231" duration="19000" />
+      <workItem from="1616688362201" duration="10033000" />
     </task>
     <task id="LOCAL-00001" summary="Edited @ updated">
       <created>1613944809244</created>
@@ -190,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616006919314</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="8th lesson. Added reducer for Todolist">
+      <created>1616523307868</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616523307868</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +241,7 @@
     <MESSAGE value="07.03.2021" />
     <MESSAGE value="6th lesson. Added new functions EditableSpan &amp; AddItemForm" />
     <MESSAGE value="7th lesson. Added material-ui components" />
-    <option name="LAST_COMMIT_MESSAGE" value="7th lesson. Added material-ui components" />
+    <MESSAGE value="8th lesson. Added reducer for Todolist" />
+    <option name="LAST_COMMIT_MESSAGE" value="8th lesson. Added reducer for Todolist" />
   </component>
 </project>
