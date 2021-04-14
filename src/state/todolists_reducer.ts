@@ -24,6 +24,8 @@ export type ChangeTodoListFilterActionType = {
     id: string
 }
 
+let initialState: Array<TodoListType> = []
+
 type ActionType = RemoveTodoListActionType | AddTodoListActionType |
     ChangeTodoListTitleActionType | ChangeTodoListFilterActionType
 
